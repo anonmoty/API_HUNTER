@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%3E+Initializing+API+Hunter...;%3E+Scanning+Endpoints...;%3E+Hunting+Vulnerabilities...;%3E+Access+Granted+%5B%E2%9C%93%5D" alt="Typing SVG" />
 
+
+
 <br><br>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-00FF00?style=for-the-badge&logo=python&logoColor=black)
@@ -23,12 +25,47 @@
 ---
 
 <div align="center">
+## ⚡ Installation
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Installing+API+Hunter...;%3E+Please+wait...;%3E+Almost+done..." alt="Installing" />
+
+</div>
+
+### 🐧 TERMUX / 🍎 Linux
+
+```bash
+# Clone the hunt
+pkg install python
+pkg install git
+
+git clone https://github.com/anonmoty/API_HUNTER.git
+
+# Enter the lair
+cd API_HUNTER
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+
+# Start hunting
+python APIHUNTER.py
+
+
 
 ```ascii
-    ___    ____  ____  __  __    __  __ __  __ ______ ____  _____
-   /   |  / __ \/  _/ / / / /   / / / // / / //_  __// __ \/ ___/
-  / /| | / /_/ // /  / /_/ /   / /_/ // /_/ /  / /  / / / /\__ \ 
- / ___ |/ ____// /  / __  /   / __  // __  /  / /  / /_/ /___/ / 
-/_/  |_/_/   /___/ /_/ /_/   /_/ /_//_/ /_/  /_/   \____//____/  
-                                                                  
+           _____ _____   _    _ _    _ _   _ _______ ______ _____   
+     /\   |  __ \_   _| | |  | | |  | | \ | |__   __|  ____|  __ \  
+    /  \  | |__) || |   | |__| | |  | |  \| |  | |  | |__  | |__) | 
+   / /\ \ |  ___/ | |   |  __  | |  | | . ` |  | |  |  __| |  _  /  
+  / ____ \| |    _| |_  | |  | | |__| | |\  |  | |  | |____| | \ \  
+ /_/    \_\_|   |_____| |_|  |_|\____/|_| \_|  |_|  |______|_|  \_\ 
+                                                                    
+                                                                    
+
+    
         [ Hunt APIs. Find Bugs. Stay Ethical. ]
+
+
